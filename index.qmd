@@ -1,11 +1,11 @@
 ---
-title: "temp_website"
+title: "Welcome to my Page!"
 ---
 
-This is a Quarto website.
+Feel free to look around and browse however you please. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Here's an insightful video about Quarto: {{< video https://youtu.be/Bhcivv_iXU8 width="600" height="400" >}}
 
 ```{r}
-1 + 1
+9 + 10
 ```

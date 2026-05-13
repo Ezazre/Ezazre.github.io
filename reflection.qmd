@@ -1,0 +1,5 @@
+---
+title: "Reflection"
+---
+
+While GenAI has been increasingly prevalent and useful in both academic and personal matters, its usage can come at a cost if left unchecked. It functions well as a confidante or aide when it comes to recommending solutions for immediate problems and the like, but may resultantly be hampering the intellectual stimulation that once served to bolster our higher-order thinking. Over-reliance on GenAI leads to shallower understanding of things we do not yet fully understand, which is then perpetuated since it is also the first method of inquiry we reach for when it comes to validating information. Moving forward, I strive to use these tools effectively in a balance, questioning what I am fed, cross-referencing the information against other reliable sources, and championing my own human reasoning as what separates my work from that of a hallucination-prone AI.
